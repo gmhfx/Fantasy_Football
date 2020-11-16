@@ -22,7 +22,7 @@ https://www.fantasypros.com/nfl/
 
 NFL players' Average Draft Position plotted on reversed x-axis versus the players' projected PPR points total for 2020 season on the y-axis. Color-coded by position.
 
-https://gmhfx.github.io/SP500/
+https://gmhfx.github.io/Fantasy_Football/.
 
 ### Contact
 
