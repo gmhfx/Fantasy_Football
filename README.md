@@ -1,6 +1,6 @@
 # Fantasy_Football
 
-Github PAGES repository where I can aggregate and publish visualizations and analysis of Fanatsy Football data.
+Github PAGES repository where I can publish visualizations and analysis of Fanatsy Football data.
 
 ## Technologies
 
